@@ -7,6 +7,7 @@ import NuevoCliente, {
 	action as nuevoClienteAction
 } from './pages/NuevoCliente';
 import Index, { loader as clientesLoader } from './pages/Index';
+import ErrorPage from './components/ErrorPage';
 
 const container = document.getElementById('root');
 const router = createBrowserRouter([
@@ -17,7 +18,8 @@ const router = createBrowserRouter([
 			{
 				index: true,
 				element: <Index />,
-				loader: clientesLoader
+				loader: clientesLoader,
+				errorElement: <ErrorPage />
 			},
 			{
 				path: '/clientes/nuevo',
