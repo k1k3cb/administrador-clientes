@@ -67,7 +67,7 @@ Este proyecto para su instalación necesitas usar los siguientes comandos:
 
 Si solamente quieres verlo debes usar el comando *npm run preview*
 
-NOta: Si no carga los datos de JSON server usar json-server --watch db.json
+Nota: Si no carga los datos de JSON server usar json-server --watch db.json
 
 ## Licencia 📄
 
