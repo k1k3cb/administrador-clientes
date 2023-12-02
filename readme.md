@@ -1,11 +1,11 @@
 # Administrador de clientes
 
-![Imagen del proyecto](https://github.com/k1k3cb/cotizador-criptomonedas/blob/main/public/screenShoot1.png)
+![Imagen del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot1.png)
 
 ## Ejemplo en vivo
  
 
-- [Enlace al proyecto](https://cotizador-criptomonedas.onrender.com/)
+- [Enlace al proyecto](https://administrador-de-clientes.onrender.com)
 
 
 ## Descripción 📑
@@ -39,7 +39,9 @@ Creación de [JSON server](https://www.npmjs.com/package/json-server) para para 
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/k1k3cb/cotizador-criptomonedas/blob/main/public/screenShoot2.png)
+![Captura del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot2.png)
+![Captura del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot3.png)
+
 
 
 
