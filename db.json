@@ -1,48 +1,40 @@
 {
   "clientes": [
     {
-      "nombre": "Juan actualizado",
-      "empresa": "Codigo Con Juan",
-      "email": "juan@juan.com",
+      "nombre": "Juan",
+      "empresa": "Google",
+      "email": "juan@correo.com",
       "telefono": "102013313",
-      "notas": "NOtaaa",
+      "notas": "Nueva nota",
       "id": 1
     },
     {
       "id": 2,
       "nombre": "Karen",
       "telefono": 138198313,
-      "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
+      "email": "karen@correo.com",
+      "empresa": "Amazon"
     },
     {
       "id": 3,
       "nombre": "Josue",
       "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
+      "email": "josue@correo.com",
+      "empresa": "Tesla"
     },
     {
       "id": 4,
       "nombre": "Miguel",
       "telefono": 319381983,
-      "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
+      "email": "miguel@correo.com",
+      "empresa": "Vodafone"
     },
     {
       "id": 5,
       "nombre": "Pedro",
       "telefono": 1398198938,
-      "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "Gasolina",
-      "empresa": "Netflix",
-      "email": "enriquecbar@hotmail.com",
-      "telefono": "5555",
-      "notas": "tere",
-      "id": 6
+      "email": "pedro@correo.com",
+      "empresa": "Ebay"
     }
   ]
 }
